@@ -6,7 +6,7 @@
 <br />
 <strong>Office Location:</strong> D502 at New Main Building 
 <br />
-<strong>Email:</strong> <email>fang_yuan_liu (at) buaa.edu.cn</email>
+<strong>Email:</strong> <email>fang_yuan_liu@buaa.edu.cn</email>
 <br />
 <!-- <strong>Phone:</strong> </p> -->
 <!-- <p style="text-align: left;"><iframe src="[https://www.google.com/maps/place/10+Bd+Thomas+Gobert,+91120+Palaiseau/@48.7124352,2.194429,17z/data=!3m1!4b1!4m6!3m5!1s0x47e678bdc3c9eee5:0xb68bc1fb5222c860!8m2!3d48.7124317!4d2.1970093!16s%2Fg%2F11h2c29d0k?entry=ttu](https://www.google.com/maps/search/beihang+university/@39.9837286,116.3419606,16z/data=!3m1!4b1?entry=ttu)" width="640" scrolling="no" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p> -->
