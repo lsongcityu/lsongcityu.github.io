@@ -6,7 +6,13 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+
+Currently, I'm a Ph.D. Candidate at Laboratory of Unmanned Intelligent Systems, [Beihang University](https://ev.buaa.edu.cn/), China, working under the mentorship of Prof. [Zhan Tu](https://shi.buaa.edu.cn/tuzhan/zh_CN/index/174863/list/index.htm), Prof. [Daochun Li](https://shi.buaa.edu.cn/lidaochun/en/index.htm), and Prof. [Jinwu Xiang (Academician of Chinese Academy of Engineering)](https://www.ase.buaa.edu.cn/info/1072/9854.htm). Before that, I got my B.S. from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2019.
+
+My research concentrates on the development of a centimeter-scale, motor-driven flapping-wing robot, which is truly insect-like in terms of tailless and two-winged configurations, attitude control approach, and hovering flight capability. I carried out studies to optimize its flight performance by inventing simple yet effective designs for lightweight and improving lift generation and power efficiency for long endurance flights.
+
+My research also targets a multimodal and multifunctional bio-inspired robot that in addition to flight can be equipped with more modes of transportation such as jumping, crawling, running, etc., similar to real flying animals.
+
 ## Research Interest:
 - **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
 - **Machine Learning:** fairness AI, penalization and augmentation methods
