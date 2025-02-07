@@ -1,18 +1,18 @@
 # Basic Information 
-title: Fangyuan Liu
+title: Song Li
 position: Ph.D. Candidate
-affiliation: Beihang University
+affiliation: City University of Hong Kong
 subaffiliation: School of Aeronautic Science and Engineering
-affiliation_link: https://www.buaa.edu.cn/
-subaffiliation_link: http://www.ase.buaa.edu.cn/
+affiliation_link: https://www.cityu.edu.hk
+subaffiliation_link: https://ris.bme.cityu.edu.hk
 affiliation_logo: ./assets/img/spinion.svg
-email: fang_yuan_liu@buaa.edu.cn
-email2: fangyuanliu9527@gmail.com
-address: Xueyuan Road, Haidian Distinct, Beijing, China
+email: lsong22-c@my.cityu.edu.hk
+email2: lee_song@buaa.edu.cn
+address: 83 Tat Chee Ave, Kowloon Tong, Hong Kong
 address_link: https://www.google.com/maps/place/Beihang+University/@39.9807418,116.3264505,14.3z/data=!4m10!1m2!2m1!1sbeihang+university!3m6!1s0x35f0540b91d0a11b:0x6601a3689171505b!8m2!3d39.9843568!4d116.3446392!15sChJiZWloYW5nIHVuaXZlcnNpdHmSAQp1bml2ZXJzaXR54AEA!16zL20vMDJ2NGd6?entry=ttu
 
 # Search Engine Optimization (SEO)
-keywords: fangyuan liu, liu fangyuan, liufangyuan, fangyuanliu, squcle, squcleleo
+keywords: song li, li song, lisong, songli, song, lsong
 canonical: https://minimal-light-theme.yliu.me/
 description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
 
@@ -23,7 +23,7 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=bbtDGrAAAAAJ
+google_scholar: https://scholar.google.com/citations?user=yVIJcBcAAAAJ&hl=zh-CN
 cv_link: 
 github_link: https://github.com/Fangyuanliu9527
 linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
